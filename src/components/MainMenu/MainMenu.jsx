@@ -14,15 +14,10 @@ const MainMenu = () => {
                 </NavLink>
             </li>
             <li>
-                <NavLink className={styles.link} to="/favorite">
-                    Favorite
+                <NavLink className={styles.link} to="/favorites">
+                    Favorites
                 </NavLink>
             </li>
-            {/* <li>
-        <NavLink className={styles.link} to="/movies/:movieId">
-          MovieDetails
-        </NavLink>
-      </li> */}
         </ul>
     );
 };
