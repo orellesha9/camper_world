@@ -1,12 +1,12 @@
 // import styles from './movies-page.module.css';
 // import PostsSearch from "components/PostsSearch/PostsSearch";
 
-const MoviesPage = () => {
+const CatalogPage = () => {
     return (
         <div>
-            <h1> Movie Page</h1>
+            <h1> Catalog Page</h1>
             {/* <PostsSearch/> */}
         </div>
     );
 };
-export default MoviesPage;
+export default CatalogPage;

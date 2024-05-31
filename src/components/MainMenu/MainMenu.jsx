@@ -9,8 +9,8 @@ const MainMenu = () => {
                 </NavLink>
             </li>
             <li>
-                <NavLink className={styles.link} to="/movies">
-                    Movies
+                <NavLink className={styles.link} to="/catalog">
+                    Catalog
                 </NavLink>
             </li>
             <li>
