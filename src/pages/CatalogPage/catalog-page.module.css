@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    
+}
+
+
+
+
+
+
+.filter {
+    margin-top: 60px;
+    width: 360px;
+    display: flex;
+    row-gap: 32px;
+
+}
+

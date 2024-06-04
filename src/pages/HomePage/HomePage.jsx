@@ -5,7 +5,6 @@ const HomePage = () => {
     return (
         <div className={styles.camper_image}>
             <p className={styles.hero_text}>Camper for your vacation</p>
-            <button>text</button>
         </div>
     );
 };
